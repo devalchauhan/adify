@@ -1,0 +1,74 @@
+name: adify
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.19.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/adify/assets/images/vector.svg
+    - packages/adify/assets/images/ellipse11.png
+    - packages/adify/assets/images/ellipse12.png
+    - packages/adify/assets/images/ellipse10.png
+    - packages/adify/assets/images/chevronright.svg
+    - packages/adify/assets/images/settings.svg
+    - packages/adify/assets/images/rectangle.svg
+    - packages/adify/assets/images/border.svg
+    - packages/adify/assets/images/cap.svg
+    - packages/adify/assets/images/capacity.svg
+    - packages/adify/assets/images/wifi.svg
+    - packages/adify/assets/images/cellularconnection.svg
+    - packages/adify/assets/images/arrowright.svg
+    - packages/adify/assets/images/line3.svg
+    - packages/adify/assets/images/rectangle220.svg
+    - packages/adify/assets/images/pause.svg
+    - packages/adify/assets/images/minus.svg
+    - packages/adify/assets/images/plus.svg
+    - packages/adify/assets/images/ellipse7.png
+    - packages/adify/assets/images/group.svg
+    - packages/adify/assets/images/line1.svg
+    - packages/adify/assets/images/star.svg
+    - packages/adify/assets/images/x316thumbtack.svg
+    - packages/adify/assets/images/ellipse2.png
+    - packages/adify/assets/images/image1.png
+    - packages/adify/assets/images/search1.svg
+    - packages/adify/assets/images/icon.svg
+    - packages/adify/assets/images/group76001.svg
+    - packages/adify/assets/images/filetext.svg
+    - packages/adify/assets/images/archive.svg
+    - packages/adify/assets/images/user.svg
+    - packages/adify/assets/images/home.svg
+    - packages/adify/assets/images/megaphone1.svg
+    - packages/adify/assets/images/bell.svg
+    - packages/adify/assets/images/helpcircle.svg
+    - packages/adify/assets/images/ellipse4.png
+    - packages/adify/assets/images/rectangle215.png
+    - packages/adify/assets/images/ellipse3.png
+    - packages/adify/assets/images/pin.svg
+    - packages/adify/assets/images/diamond1.svg
+    - packages/adify/assets/images/diamond3.svg
+    - packages/adify/assets/images/diamond2.svg
+    - packages/adify/assets/images/diamond4.svg
+    - packages/adify/assets/images/ellipse6.png
+    - packages/adify/assets/images/check.svg
+    - packages/adify/assets/images/ellipse5.png
+    - packages/adify/assets/images/edit2.svg
+    - packages/adify/assets/images/ellipse13.png
+    - packages/adify/assets/images/google1.svg
+    - packages/adify/assets/images/facebook2.svg
+    - packages/adify/assets/images/layer1.svg
+    - packages/adify/assets/images/x310linkedin.svg
+    - packages/adify/assets/images/filter.svg
+    - packages/adify/assets/images/search.svg
