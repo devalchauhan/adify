@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.adify">
+    package="com.example.adify_comp">
    <application
-        android:label="adify"
+        android:label="adify_comp"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

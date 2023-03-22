@@ -1,4 +1,4 @@
-# adify
+# adify_comp
 
 A new Flutter project.
 
