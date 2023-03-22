@@ -1,6 +1,6 @@
 {
-    "name": "adify",
-    "short_name": "adify",
+    "name": "adify_comp",
+    "short_name": "adify_comp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

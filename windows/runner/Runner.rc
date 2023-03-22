@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "adify" "\0"
+            VALUE "FileDescription", "adify_comp" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "adify" "\0"
+            VALUE "InternalName", "adify_comp" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "adify.exe" "\0"
-            VALUE "ProductName", "adify" "\0"
+            VALUE "OriginalFilename", "adify_comp.exe" "\0"
+            VALUE "ProductName", "adify_comp" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
